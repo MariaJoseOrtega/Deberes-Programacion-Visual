@@ -1,2 +1,2 @@
-# Deberes-Programacion-Visual
-Repositorio para guardar codigo de las clases incluido deberes
+ARCHIVOS DE PROGRAMACION VISUAL
+MARIA JOSE ORTEGA
